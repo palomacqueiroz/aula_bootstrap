@@ -1,0 +1,54 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 20px 'Courier New', Courier, monospace;
+}
+.navbar{
+    background-color: whitesmoke;    
+}
+
+.logo-globallabs{
+    background-color: gray;    
+    margin: 10px;
+    padding: 1px;
+}
+
+.quem-somos {
+    background-color: rgb(152, 171, 164);
+    color: rgb(42, 40, 40);
+    
+}
+
+.margin{
+        padding-bottom: 50px;
+        padding-top: 10px;
+
+}
+
+.parceiros{
+    background-color: rgb(88, 117, 102);
+    color: rgb(42, 40, 40);
+}
+
+.logo-dio {
+    width: 90%;
+    padding-top: 5px;
+}
+
+.col-lg-6 {
+    padding: 50px;
+}
+
+.servicos{
+    background-color: rgb(152, 171, 164);
+}
+
+.bg-footer {
+    background-color: rgb(88, 117, 102);
+    color: blanchedalmond;
+    padding: 30px;
+}
